@@ -1,3 +1,5 @@
+// your code goes here
+
 function setup(){
     // square dimensions
     w = min(windowWidth, windowHeight)
